@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">inClassService</string>
+    <string name="button">Button</string>
+    <string name="click_below_send_button_to_get_verification_code_via_sms_then_enter_the_code_in_the_text_box">Click below Send button to get verification code via sms. Then enter the code in the text box.</string>
+</resources>
